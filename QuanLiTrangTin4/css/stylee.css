@@ -1,0 +1,146 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+body{
+	background:#ffffff;
+	font-family:'Segoe UI',Tahoma, Deneva,verdana,san-serif;
+	
+}
+.warpper{
+	width:1000px;
+	margin:auto;
+}
+.logo{
+	height:100px;
+	background:#ffffff;
+	text-align:center;
+	
+	
+}
+.logo img{
+	height:115px;
+}
+.menu{
+	height:35px;
+	background:#272f54;
+	
+}
+.banner{
+	
+	height:250px;
+	
+}
+.content{
+	height:985px;
+	background:#ffffff;
+}
+footer{
+	height:50px;
+	background:#272f54;
+	margin-top:60px;
+	
+}
+footer p{
+	color:white;
+	line-height:50px;
+	text-align:center;
+}
+.menu ul li{
+	list-style:none;
+	float:left;
+	line-height:35px;
+	padding-left:30px
+}
+.menu ul li a{
+	text-decoration:none;
+	color:#fefbfb;
+	
+}
+
+.menu ul li a:hover{
+	text-decoration:underline lime ;
+}
+.text{
+	height:20px;
+	border:none;
+	line-height:35px;
+	padding-Right:10px;
+	margin:7px 0 0 35px;
+	padding-left:10px;
+}
+.timkiem{
+	width:110px;
+	height:20px;
+	border:0.5px solid #ffffff;
+	color:#ffffff;
+	background:red;
+	margin-left:7px;
+}
+
+form{
+	text-align:right;
+	margin-right:35px;
+}
+
+.banner img{
+	width:100%;
+	height:100%;
+	
+}
+.td{
+	width:900px;
+	height:65px;
+	line-height:65px;
+}
+.td p{
+	color:blue;
+	font-size:20px;
+	font-weight:bold;
+}
+.sp {
+	height:300px;
+	width:240px;
+	text-align:center;
+	margin-right: 10px ;
+	float:left;
+	
+}
+
+.sp img{
+	width: 240px;;
+	height:300px;
+	
+}
+
+.tentruyen a{
+	text-decoration:none;
+	color:#2a2828;
+	font-size:18px;
+	font-weight:bold;
+}
+
+.conten{
+	padding:10px;
+	margin:10px;
+}
+.box{
+	width:1000px;
+	height:300px;
+}
+.td1{
+	margin-top: 20px;
+	padding-top:20px ;
+	width:900px;
+	height:65px;
+	line-height:65px;
+	
+}
+.td1 p{
+	padding-top:20px ;
+	margin-top: 20px;
+	color:blue;
+	font-size:20px;
+	font-weight:bold;
+}
